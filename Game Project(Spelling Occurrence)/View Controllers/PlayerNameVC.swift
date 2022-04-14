@@ -34,7 +34,7 @@ class PlayerNameVC: UIViewController {
     }
     //MARK: - Initial SetUp For Start Button
     private func setUpStartButton() {
-        startButton.layer.cornerRadius = 15
+        startButton.layer.cornerRadius = 10
         startButton.layer.masksToBounds = true
     }
     //MARK: - Navigation

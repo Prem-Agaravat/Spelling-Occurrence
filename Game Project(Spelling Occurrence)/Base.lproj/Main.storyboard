@@ -237,10 +237,10 @@
                                 <rect key="frame" x="20" y="144.5" width="335" height="378"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bsc-va-R8f">
-                                        <rect key="frame" x="79" y="74" width="177" height="30"/>
+                                        <rect key="frame" x="92.5" y="74" width="150" height="30"/>
                                         <color key="backgroundColor" red="0.93741034320000005" green="0.88341400029999995" blue="0.38401725710000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="177" id="Pn7-IW-daE"/>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="Pn7-IW-daE"/>
                                             <constraint firstAttribute="height" constant="30" id="vsW-7V-rFI"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GujaratiSangamMN-Bold" family="Gujarati Sangam MN" pointSize="16"/>
@@ -252,10 +252,10 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yco-tp-GrH">
-                                        <rect key="frame" x="79" y="174" width="177" height="30"/>
+                                        <rect key="frame" x="92.5" y="174" width="150" height="30"/>
                                         <color key="backgroundColor" red="0.93741034320000005" green="0.88341400029999995" blue="0.38401725710000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="177" id="HNV-vu-VR3"/>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="HNV-vu-VR3"/>
                                             <constraint firstAttribute="height" constant="30" id="gRC-uQ-f69"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GujaratiSangamMN-Bold" family="Gujarati Sangam MN" pointSize="16"/>
@@ -267,10 +267,10 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fdq-Tb-HhG">
-                                        <rect key="frame" x="79" y="273" width="177" height="30"/>
+                                        <rect key="frame" x="92.5" y="273" width="150" height="30"/>
                                         <color key="backgroundColor" red="0.93741034320000005" green="0.88341400029999995" blue="0.38401725710000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="177" id="JwX-sv-33b"/>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="JwX-sv-33b"/>
                                             <constraint firstAttribute="height" constant="30" id="ysV-nn-fkH"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="GujaratiSangamMN-Bold" family="Gujarati Sangam MN" pointSize="16"/>
@@ -296,6 +296,7 @@
                             </view>
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qyy-Gq-Sry">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                <color key="barTintColor" red="0.45168775319999999" green="0.97971993680000002" blue="0.47569024560000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <items>
                                     <navigationItem title="Choose Difficulty" id="Dqj-TU-xgv">
                                         <barButtonItem key="leftBarButtonItem" style="done" id="YPN-Bh-o4y">
@@ -691,6 +692,7 @@
                             </view>
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8k0-Z1-oRd">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                <color key="barTintColor" red="0.94893056149999999" green="0.94906717539999996" blue="0.96936076879999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <items>
                                     <navigationItem title="Player Name" id="MyE-ZF-AAw">
                                         <barButtonItem key="leftBarButtonItem" style="plain" id="lMu-eR-XYR">

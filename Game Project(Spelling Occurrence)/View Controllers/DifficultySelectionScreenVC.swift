@@ -39,7 +39,7 @@ class DifficultySelectionScreenVC: UIViewController {
     //MARK: - Initial SetUp For Button
     private func setUpButtons(arrButtons: [UIButton]) {
         for button in arrButtons {
-            button.layer.cornerRadius = 15
+            button.layer.cornerRadius = 10
             button.layer.masksToBounds = true
             button.backgroundColor = .yellow
         }
