@@ -303,7 +303,7 @@
                                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="leading" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="AnF-gF-BQE">
                                                 <rect key="frame" x="16" y="7" width="83" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <state key="normal" title="Back"/>
+                                                <state key="normal" title="&lt; Back"/>
                                                 <connections>
                                                     <action selector="backButtonTapped:" destination="8nN-wT-dYd" eventType="touchUpInside" id="Jsb-3j-Zt9"/>
                                                 </connections>
@@ -352,7 +352,7 @@
                                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="leading" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="GwO-nx-YLG">
                                                 <rect key="frame" x="16" y="7" width="83" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                <state key="normal" title="Back"/>
+                                                <state key="normal" title="&lt; Back"/>
                                                 <connections>
                                                     <action selector="backButtonTapped:" destination="Zxg-X0-gqr" eventType="touchUpInside" id="FAl-Lw-IXa"/>
                                                 </connections>
@@ -404,7 +404,7 @@
                                                 <rect key="frame" x="16" y="5" width="83" height="34.5"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="plain" title="Back"/>
+                                                <buttonConfiguration key="configuration" style="plain" title="&lt; Back"/>
                                                 <connections>
                                                     <action selector="backButtonTapped:" destination="5SA-Da-AL4" eventType="touchUpInside" id="bw3-AH-fny"/>
                                                 </connections>
@@ -700,7 +700,7 @@
                                                 <rect key="frame" x="16" y="5" width="83" height="34.5"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="plain" title="Back"/>
+                                                <buttonConfiguration key="configuration" style="plain" title="&lt; Back"/>
                                                 <connections>
                                                     <action selector="backButtonTapped:" destination="SOw-xP-L4I" eventType="touchUpInside" id="cZe-3t-ZKr"/>
                                                 </connections>
