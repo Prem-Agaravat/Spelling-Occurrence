@@ -130,7 +130,7 @@ class GamePlayScreenVC: UIViewController {
             if score >= highScore {
                 highScore = score
             }
-            scoreLable.text = String(score)
+            scoreLable.text = "Score = \(score)"
             timerProgressView.tintColor = .white
             displayRandomSpelling()
             setUpTimerForProgressView()
